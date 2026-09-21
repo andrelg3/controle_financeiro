@@ -1,0 +1,6 @@
+{
+  "name": "Controle Financeiro Pessoal",
+  "description": "Controle financeiro pessoal e familiar com troca de usuário, gestão de receitas fixas/variáveis, boletos recorrentes, acúmulo inteligente de pendências entre meses, negociação de dívidas e lista de compras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
